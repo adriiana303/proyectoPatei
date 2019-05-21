@@ -19,7 +19,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css" > 
     <!-- Your Styles -->
     <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/custom.css?<?=$elapsed_time?>">
-    <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>cssnyt.css?<?=$elapsed_time?>">
+    <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/cssnyt.css?<?=$elapsed_time?> "media="all">
     <!-- <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/estilo.css?<?=$elapsed_time?>"> -->
     <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/<?=$page_title?>.css?<?=$elapsed_time?>">
     
