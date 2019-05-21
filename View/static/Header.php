@@ -42,7 +42,7 @@
        <div class="dropdown-menu" arialabelledby="navbarDropdown">
       
         <li class="nav-item active">
-        <a href="../modelo/home/"><button class="btn btn-light
+        <a href="/home/"><button class="btn btn-light
        nav-link font-navbar">Inicio<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
