@@ -20,6 +20,7 @@
 body {overflow-x:hidden;}
 </style>
 <body background="../assets/images/fondo2.png" class="img-fluid">
+<br/><br/><br/>
 <!-- Encabezado -->
 <div class="row">
 				<div class="col-1"></div>	
