@@ -52,6 +52,7 @@ body {overflow-x:hidden;}
            
            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FParquePATEI%2Fvideos%2F205257366695837%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" allowTransparency="true" allowFullScreen="true"></iframe>
           </div>
+          <div col-md-3 col-lg-3> </div>
         </div>
         <!-- <div class="row">
             <div class="col-md-10 col-lg-10 embed-responsive embed-responsive-16by9 "">
