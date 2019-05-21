@@ -19,7 +19,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css" > 
     <!-- Your Styles -->
     <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/custom.css?<?=$elapsed_time?>">
-    <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>../assets/css/cssnyt.css?<?=$elapsed_time?>">
+    <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/cssnyt.css?<?=$elapsed_time?>">
     <!-- <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/estilo.css?<?=$elapsed_time?>"> -->
     <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/<?=$page_title?>.css?<?=$elapsed_time?>">
     
@@ -55,7 +55,7 @@
        nav-link font-navbar">Inicio<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
-        <a href="../modelo/Noticias/"><button class="btn btn-light
+        <a href="/modelo/Noticias/"><button class="btn btn-light
        nav-link font-navbar">Noticias<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
