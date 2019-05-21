@@ -84,7 +84,7 @@
       <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto7.jpg" class="img-fluid" ></div>
       <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto8.jpg" class="img-fluid" ></div>
       <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto9.jpg" class="img-fluid" ></div>
-      <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto10.jpg"  ></div>
+      <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto10.jpg" class="img-fluid" ></div>
 
     </div>
     <!-- Add Arrows -->
