@@ -46,23 +46,23 @@
        nav-link font-navbar">Inicio<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
-        <a href="../modelo/Noticias/"><button class="btn btn-light
+        <a href="/Noticias/"><button class="btn btn-light
        nav-link font-navbar">Noticias<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
-        <a href="/modelo/Nosotros/"><button class="btn btn-light
+        <a href="/Nosotros/"><button class="btn btn-light
        nav-link font-navbar">Nosotros<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
-        <a href="/modelo/Contacto/"><button class="btn btn-light
+        <a href="/Contacto/"><button class="btn btn-light
        nav-link font-navbar">Contacto<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
-        <a href="/modelo/Servicios/"><button class="btn btn-light
+        <a href="/Servicios/"><button class="btn btn-light
        nav-link font-navbar">Servicios<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
-        <a href="/modelo/Galeria/"><button class="btn btn-light
+        <a href="/Galeria/"><button class="btn btn-light
        nav-link font-navbar">Galeria<span class="sr-only">(current)</span></button></a>
         </li>
         </ul>
