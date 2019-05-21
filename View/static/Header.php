@@ -19,7 +19,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css" > 
     <!-- Your Styles -->
     <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/custom.css?<?=$elapsed_time?>">
-    <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/cssnyt.css?<?=$elapsed_time?>">
+    <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>../assets/css/cssnyt.css?<?=$elapsed_time?>">
     <!-- <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/estilo.css?<?=$elapsed_time?>"> -->
     <link rel="stylesheet" href="<?=$GLOBALS['COD']->dir?>/assets/css/<?=$page_title?>.css?<?=$elapsed_time?>">
     
@@ -38,24 +38,15 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
         <li class="nav-item dropdown">
-      <!--   <a class="nav-link dropdown-toggle font-navbar" href=""
-       id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
-       aria-expanded="false">
-        SECCIONES
-        </a> -->
+      
        <div class="dropdown-menu" arialabelledby="navbarDropdown">
-       <!--  <a href="/modelo/home/" class="dropdown-item fontnavbar">Inicio</a>
-        <a href="/modelo/Noticias/" class="dropdown-item fontnavbar">Noticias</a>
-        <a href="/modelo/Nosotros/" class="dropdown-item fontnavbar">Nosotros</a>
-        <a href="/modelo/Contacto/" class="dropdown-item fontnavbar">Contacto</a>
-        <a href="/modelo/Servicios/" class="dropdown-item font-navbar">Servicios</a>
-        <a href="/modelo/Galeria/" class="dropdown-item fontnavbar">Galeria</a> -->
+      
         <li class="nav-item active">
         <a href="/modelo/home/"><button class="btn btn-light
        nav-link font-navbar">Inicio<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
-        <a href="/modelo/Noticias/"><button class="btn btn-light
+        <a href="../modelo/Noticias/"><button class="btn btn-light
        nav-link font-navbar">Noticias<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
