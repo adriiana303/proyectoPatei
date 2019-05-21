@@ -62,7 +62,7 @@
        nav-link font-navbar">Servicios<span class="sr-only">(current)</span></button></a>
         </li>
         <li class="nav-item active">
-        <a href="/Galeria/"><button class="btn btn-light
+        <a href="Galeria/"><button class="btn btn-light
        nav-link font-navbar">Galeria<span class="sr-only">(current)</span></button></a>
         </li>
         </ul>
