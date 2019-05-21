@@ -75,8 +75,7 @@
   <!-- Swiper -->
   <div class="swiper-container gallery-top">
     <div class="swiper-wrapper">
-   
-      <!--  --><div class="swiper-slide "style="background-image:url(../assets/images/Imagenes/Galeria/foto1.jpg)"></div>
+  
       <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto1.jpg" class="img-fluid" ></div>
       <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto2.jpg" class="img-fluid" ></div>
       <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto3.jpg" class="img-fluid" ></div>
@@ -95,6 +94,7 @@
   </div>
   <div class="swiper-container gallery-thumbs">
     <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto1.jpg" class="img-fluid" ></div>
             <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto2.jpg" class="img-fluid" ></div>
             <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto3.jpg" class="img-fluid" ></div>
             <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto4.jpg" class="img-fluid" ></div>
@@ -104,7 +104,6 @@
             <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto8.jpg" class="img-fluid" ></div>
             <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto9.jpg" class="img-fluid" ></div>
             <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto10.jpg" class="img-fluid" ></div>
-            <div class="swiper-slide"><img src="../assets/images/Imagenes/Galeria/foto1.jpg" class="img-fluid" ></div>
 
     </div>
   </div>
